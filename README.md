@@ -1,2 +1,2 @@
 # izaroot.github.io
-Portfolio /Projects
+Portfolio / Projects
